@@ -1,0 +1,61 @@
+body {
+  font-family:  'Lato', sans-serif;
+}
+
+.card{
+    background-color: #EEEEEE;
+    margin-left: 20px;
+    margin-bottom: 24px;
+    padding: 13px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    width: 31%;
+  }
+  .update-issue{
+   display: flex;
+   justify-content: space-between  ;
+   background-color: grey;
+    /* border: 2px solid greenyellow; */
+  }
+  .intro{
+    color: white;
+    align-self: center;
+    margin-left: 60px;
+
+  }
+  .issues{
+    align-self: center;
+    justify-self: center;
+  }
+  #issue-1{
+    background-color: #009582;
+  }
+  #issue-2{
+    background-color: #000f99;
+  }
+  #issue-3{
+    background-color: #998f00;
+ 
+  }
+  #issue-1,#issue-2,#issue-3{
+    font-size: 20px;
+    float: left;
+    padding: 10px;
+    margin: 8px;
+    /* border: 2px solid tomato; */
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    transition: all 1s;
+  }
+  #issue-1:hover,#issue-2:hover,#issue-3:hover{
+    transform: scale(1.1);
+  }
+  section{
+    margin-top: 20px !important;
+  }
+
+  h3 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
