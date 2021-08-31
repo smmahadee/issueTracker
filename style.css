@@ -50,9 +50,7 @@ body {
   #issue-1:hover,#issue-2:hover,#issue-3:hover{
     transform: scale(1.1);
   }
-  section{
-    margin-top: 20px !important;
-  }
+
 
   h3 {
     text-align: center;
