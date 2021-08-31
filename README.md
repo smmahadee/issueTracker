@@ -1,4 +1,4 @@
-# Real-issue-tracker
+## issue-tracker app
 
 #### Its is Use for issue mangement system. Anybody can create an issue or close and delete.
 
